@@ -1,0 +1,10 @@
+System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Northwind.Data.Scenarios.SnapshotGenerator.CreatePaymentReceivedNotice(String& customerName) in C:\Dev\RPATools\Northwind.Data\Scenarios\SnapshotGenerator.cs:line 217
+   at RoboMailer.Models.SendItem.GetContent() in C:\Dev\RPATools\RoboChallenge\Models\SenderModelBase.cs:line 199
+   at RoboMailer.Models.SendItem.get_Content() in C:\Dev\RPATools\RoboChallenge\Models\SenderModelBase.cs:line 208
+   at RoboMailer.Models.SnapshotSenderModel.<Send>d__29.MoveNext() in C:\Dev\RPATools\RoboChallenge\Models\SnapshotSenderModel.cs:line 110
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.AsyncMethodBuilderCore.<>c.<ThrowAsync>b__6_0(Object state)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
