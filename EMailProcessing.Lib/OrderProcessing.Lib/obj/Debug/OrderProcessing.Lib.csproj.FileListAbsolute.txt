@@ -1,0 +1,6 @@
+C:\Users\perscholas_student\Desktop\UiPath Case Study\CaseStudy\EMailProcessing.Lib\OrderProcessing.Lib\bin\Debug\OrderProcessing.Lib.dll
+C:\Users\perscholas_student\Desktop\UiPath Case Study\CaseStudy\EMailProcessing.Lib\OrderProcessing.Lib\bin\Debug\OrderProcessing.Lib.pdb
+C:\Users\perscholas_student\Desktop\UiPath Case Study\CaseStudy\EMailProcessing.Lib\OrderProcessing.Lib\obj\Debug\OrderProcessing.Lib.csproj.CoreCompileInputs.cache
+C:\Users\perscholas_student\Desktop\UiPath Case Study\CaseStudy\EMailProcessing.Lib\OrderProcessing.Lib\obj\Debug\OrderProcessing.Lib.dll
+C:\Users\perscholas_student\Desktop\UiPath Case Study\CaseStudy\EMailProcessing.Lib\OrderProcessing.Lib\obj\Debug\OrderProcessing.Lib.pdb
+C:\Users\perscholas_student\Desktop\UiPath Case Study\CaseStudy\EMailProcessing.Lib\OrderProcessing.Lib\obj\Debug\OrderProcessing.Lib.csprojAssemblyReference.cache
